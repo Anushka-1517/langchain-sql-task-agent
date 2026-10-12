@@ -85,7 +85,7 @@ agent = get_agent()
 
 
 # Streamlit UI
-st.title("TaskBot")
+st.title("📝TaskBot")
 st.caption("AI-powered task management using LangChain, Groq, and SQLite")
 
 # Initialize chat history
